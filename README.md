@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbell6
 - 👀 I’m interested in learning to be a front-end developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on any and everything
 - 📫 How to reach me gt.bell20@gmail.com
 
