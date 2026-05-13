@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbell6
-- 👀 I’m interested in learning to be a front-end developer
+- 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Python, R, and SQL for Data Science
 - 💞️ I’m looking to collaborate on any and everything
 - 📫 How to reach me gt.bell20@gmail.com
